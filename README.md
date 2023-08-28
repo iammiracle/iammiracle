@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hey, I'm Miracle 👋
+
+[![Twitter Badge](https://img.shields.io/badge/-@miracleaayodele-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/miracleaayodele)](https://twitter.com/miracleaayodele) [![Linkedin Badge](https://img.shields.io/badge/-Miracle_Ayodele-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miracleayodele/)](https://www.linkedin.com/in/miracleayodele/)
+
+Nice to meet you! I'm currently working at GitHub as a software engineer.
+I recently graduated from the [Shopify Dev Degree](https://devdegree.ca/) program in Spring 2022.
+I've previously worked on building the [Shopify Fulfillment Network](https://www.shopify.com/fulfillment) as a fullstack developer, Shopify's Experimentation Platform as a data developer, Shopify Checkout as a backend developer, and Shopify's Caching Platform as a production engineer.
 
 <!--
 **iammiracle/iammiracle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
