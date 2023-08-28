@@ -1,7 +1,6 @@
 # Hey, I'm Miracle 👋
 
-[![Twitter Badge](https://img.shields.io/badge/-@miracleaayodele-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/miracleaayodele)](https://twitter.com/miracleaayodele) [![Linkedin Badge](https://img.shields.io/badge/-Miracle_Ayodele-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miracleayodele/)](https://www.linkedin.com/in/miracleayodele/)  [![Youtube Badge](https://img.shields.io/badge/-Miracle_Ayodele-FF0000?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/@miracleayodele/)](https://www.youtube.com/@miracleayodele/)
-
+[![Twitter Badge](https://img.shields.io/badge/-@miracleaayodele-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/miracleaayodele)](https://twitter.com/miracleaayodele) [![Youtube Badge](https://img.shields.io/badge/-Miracle_Ayodele-FF0000?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/@miracleayodele/)](https://www.youtube.com/@miracleayodele/)  [![Linkedin Badge](https://img.shields.io/badge/-Miracle_Ayodele-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miracleayodele/)](https://www.linkedin.com/in/miracleayodele/)  
 Nice to meet you! 
 
 - 🔭 I’m currently working on something cool ...
